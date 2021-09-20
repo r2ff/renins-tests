@@ -22,3 +22,4 @@ Allure report
 ```
 allure serve build/allure-results
 ```
+![allurereport](https://user-images.githubusercontent.com/84721020/133981163-f14c1e5d-bf44-407d-a282-42584c7775f4.jpg)
