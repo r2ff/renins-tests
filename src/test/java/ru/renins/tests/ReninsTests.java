@@ -48,7 +48,6 @@ public class ReninsTests extends TestBase {
         step("Find career section", () -> {
             $(byText("Работать у нас")).click();
             $(byText("Контакты для карьеры")).click();
-            $(".rn-page-title_title").shouldHave(text("Контакты для карьеры"));
         });
         step("Check career contacts", () -> {
             $(".rn-page-title_title").shouldHave(text("Контакты для карьеры"));
